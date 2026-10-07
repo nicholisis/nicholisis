@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="center">Hello!</h1>
+<h1 data-importer="text" align="center">Hello World!</h1>
 
 ###
 
-<p data-importer="text" align="center">What I use! ✍️</p>
+<h3 data-importer="text" align="center">What I use! ✍️</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p data-importer="text" align="center">Socials 📶</p>
+<h3 data-importer="text" align="center">Socials 📶</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<p data-importer="text" align="center">Still Learning 📖</p>
+<h3 data-importer="text" align="center">Still Learning 📖</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p data-importer="text" align="center">Side Hobbies 🏇</p>
+<h3 data-importer="text" align="center">Side Hobbies 🏇</h3>
 
 ###
 
