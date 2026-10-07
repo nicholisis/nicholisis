@@ -75,11 +75,18 @@
 <h3 data-importer="text" align="center">Side Hobbies 🏇</h3>
 
 ###
+<div data-importer="border">
+  <img style="25%" src="https://capsule-render.vercel.app/api?type=cylinder&height=8&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+</div>
+
+<div data-importer="border">
+  <img style="25%" src="https://capsule-render.vercel.app/api?type=cylinder&height=8&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
