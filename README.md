@@ -1,5 +1,7 @@
 <h1 data-importer="text" align="center">Hello World!</h1>
 
+![nicholisis](img/github-header-banner.png)
+
 ###
 
 <h3 data-importer="text" align="center">What I use! ✍️</h3>
