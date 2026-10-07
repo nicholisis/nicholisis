@@ -71,17 +71,12 @@
 </div>
 
 ###
-<div>
-  <div data-importer="border">
-    <img style="25%" src="https://capsule-render.vercel.app/api?type=cylinder&height=8&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-  </div>
-
-  <h3 data-importer="text" align="center">Side Hobbies 🏇</h3>
 
   <div data-importer="border">
     <img style="25%" src="https://capsule-render.vercel.app/api?type=cylinder&height=8&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+    <h3 data-importer="text" align="center">Side Hobbies 🏇</h3>
+    <img style="25%" src="https://capsule-render.vercel.app/api?type=cylinder&height=8&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
   </div>
-</div>
 
 ###
 
